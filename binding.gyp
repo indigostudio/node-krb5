@@ -35,7 +35,9 @@
                         "Kerberos/bin/krb5_64.dll",
                         "Kerberos/bin/comerr64.dll",
                         "Kerberos/bin/k5sprt64.dll",
-                        "Kerberos/bin/wshelp64.dll"
+                        "Kerberos/bin/wshelp64.dll",
+                        "vcredist/msvcp100.dll",
+                        "vcredist/msvcr100.dll"
                       ]
                     }
                   ]
